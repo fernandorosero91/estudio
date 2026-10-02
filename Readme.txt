@@ -1,1 +1,1 @@
-Repo de estudio, para el examen 21
+Repo de estudio, para el examen 21 10
