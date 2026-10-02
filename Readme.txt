@@ -1,1 +1,1 @@
-Repo de estudio
+Repo de estudio, para el examen
